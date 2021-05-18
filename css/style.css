@@ -65,8 +65,8 @@ body{
 #sidebar{
     float:left;
     width:30%;
-    background:;
-    color:#333;
+    background:#333;
+    color:#fff;
     padding:25px;
     box-sizing: border-box;
 }
