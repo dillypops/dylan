@@ -63,7 +63,7 @@ body{
 }
 
 #sidebar{
-    float:right;
+    float:left;
     width:30%;
     background: #333;
     color:#fff;
