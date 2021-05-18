@@ -64,7 +64,7 @@ body{
 
 #sidebar{
     float:left;
-    width:30%;
+    width:400px;
     background:#333;
     color:#fff;
     padding:25px;
@@ -72,7 +72,7 @@ body{
 }
 
 .img-me{
-    width:400px;
+    width:350;
     float:center;
 }
 
